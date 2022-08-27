@@ -15,7 +15,7 @@ export default function Home({ data }) {
         <div>
           <h2>Design</h2>
           <h3>Develop & Deploy</h3>
-          <p>Full-Stack developer | MERN Stack + Typescript.</p>
+          <p>Full-Stack developer | MERN Stack + Typescript</p>
           <Link className={styles.btn} to="/projects">My Portfolio Projects</Link>
         </div>
         <GatsbyImage image={image} alt="Banner" />
