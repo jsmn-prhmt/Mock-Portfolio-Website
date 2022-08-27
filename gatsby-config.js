@@ -27,7 +27,7 @@
     },
   ],
   siteMetadata: {
-    title: 'Porfolio-exc',
+    title: 'Porfolio(mock)',
     description: 'web dev portfolio',
     copyright: 'This website is copyright 2022.',
     contact: 'me@thewebwarrioruk.co.uk',
